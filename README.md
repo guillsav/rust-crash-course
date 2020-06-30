@@ -1,4 +1,4 @@
-# rust-crash-course
+# Rust Crash Course
 
 All the fundamentals of the Rust programming language.
 
